@@ -2,10 +2,9 @@
 
 ## O jogo
 
-Neste programa o Usuário pode digitar seus dados e prever como eles vão estar
-dispostos em um crachá. Também é possível que o usuário edite estes dados posteriormente.
+Neste programa o usuário pode cadastrar seus dados e visualizá-los em uma animação de crachá. Também é possível que o usuário edite estes dados posteriormente.
 
-<!-- Quer jogar? Aqui está a [demo](https://jompa14.github.io/jogo-memoria/) do jogo. -->
+Quer testar sem instalar? Aqui está a [demo](https://jompa14.github.io/cadastro-usuario/).
 
 ## Prerequisites
 Caso não tenha a última versão do Node Package Maneger (NPM) ou o Vue.Js instalado na sua sua máquina:
